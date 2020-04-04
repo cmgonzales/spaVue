@@ -1,1 +1,1 @@
-using spa vue cli
+using spa vue
