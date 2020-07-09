@@ -1,1 +1,1 @@
-using spa vue using a scroll magic for animation and 
+using spa vue using a scroll magic for animation
